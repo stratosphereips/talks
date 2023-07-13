@@ -1,3 +1,3 @@
-# Repo of talks given by members of Stratosphere Laboratory
+# Stratosphere Laboratory Talks
 
-A repository of slides and artifacts from some of our talks
+This repository hosts slides  and artifacts from our talks delivered by members of the Stratosphere Laboratory. 
